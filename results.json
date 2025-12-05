@@ -1,0 +1,28 @@
+{
+  "measures": [
+    {
+      "name": "certified_robust_accuracy",
+      "score": 0.7065026362038664
+    },
+    {
+      "name": "nominal_accuracy",
+      "score": 0.7065026362038664
+    },
+    {
+      "name": "robustness_ratio",
+      "score": 1.0
+    },
+    {
+      "name": "avg_margin",
+      "score": 18539.91996848269
+    },
+    {
+      "name": "avg_certified_margin",
+      "score": 40828.01877157486
+    },
+    {
+      "name": "eps",
+      "score": 0.05
+    }
+  ]
+}
