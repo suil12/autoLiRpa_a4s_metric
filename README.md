@@ -2,6 +2,7 @@
 
 This guide explains how to set up the project, run the certified robustness metric and see results.
 
+github repo: github.com/suil12/autoLiRpa_a4s_metric
 ---
 
 ## 1. Environment setup
